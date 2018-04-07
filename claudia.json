@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "pizza-claudiajs-executor",
+    "name": "pizza-claudiajs",
+    "region": "ap-southeast-1"
+  },
+  "api": {
+    "id": "alh3sfrj4j",
+    "module": "api"
+  }
+}

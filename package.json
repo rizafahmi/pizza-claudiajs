@@ -1,0 +1,10 @@
+{
+  "name": "pizza-claudiajs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Riza Fahmi <rizafahmi@gmail.com> (https://rizafahmi.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "claudia-api-builder": "3.0.2"
+  }
+}
